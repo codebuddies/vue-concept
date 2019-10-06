@@ -1,4 +1,4 @@
-# react-concept
+# vue-concept
 Frontend proof of concept of CodeBuddies v3 using React. 
 
 For Backend proof of concepts, see:
